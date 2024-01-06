@@ -10,3 +10,6 @@
 # Merging:
 • git merge
 • git rebase
+
+°Git init
+°Git add.
